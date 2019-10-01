@@ -1,0 +1,18 @@
+{
+  "app": {
+    "version": "7.3.4-65903718",
+    "versionCode": "239",
+    "link": "https://raw.githubusercontent.com/afaneh92/magisk_files/canary/app-release.apk",
+    "note": "https://raw.githubusercontent.com/afaneh92/magisk_files/canary/notes.md"
+  },
+  "magisk": {
+    "version": "19.5-65903718",
+    "versionCode": "19404",
+    "link": "https://raw.githubusercontent.com/afaneh92/magisk_files/canary/magisk-release.zip",
+    "note": "https://raw.githubusercontent.com/afaneh92/magisk_files/canary/notes.md",
+    "md5": "29c5ca11f6ef8dbb97ce3d0e06529cfa"
+  },
+  "uninstaller": {
+    "link": "https://raw.githubusercontent.com/afaneh92/magisk_files/canary/magisk-uninstaller.zip"
+  }
+}
